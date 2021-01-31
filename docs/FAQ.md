@@ -7,7 +7,7 @@
 - Yes, save data will always be transferable to the next update. Be sure to read \#releases for instructions on how to update properly between versions.
 
 ## Is it possible to play Crystal Clear on real hardware?
-- Yes! A **GBC** flash cart can run Crystal Clear perfectly so long as it supports save data and RTC. It's recommended to use a modified/reflashable **MBC3** cart with **RTC** for best results. However, **GBA** flash carts *will not run Crystal Clear correctly.* These all use the Goomba GBC emulator, which is *incompatible with vanilla Crystal and therefore CC as well.* You can and should use a GBC flashcart when playing on a GBA.
+- Yes! A **GBC** flash cart can run Crystal Clear perfectly so long as it supports save data and RTC. It's recommended to use a modified/reflashable **MBC3** cart with **RTC** for best results. As of Crystal Clear version 2.3.0 Crystal Clear can now be played on GBA flashcarts which use Goomba. Read more about it [here.](changelogs/2_3_0_Changelog.md#goomba-support)
 
 ## What's the best emulator if I'm not using real hardware?
 - This depends on what platform you intend to use. The /#documentation channel in the Discord has a list of recommended emulators.
